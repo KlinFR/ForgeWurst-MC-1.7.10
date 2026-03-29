@@ -2,7 +2,7 @@
 
 This module is a compatibility adaptation of ForgeWurst for Minecraft Forge 1.7.10.
 
-It was backported from the newer ForgeWurst codebase rather than written from scratch. The original project and upstream history can be found in the Wurst/ForgeWurst repositories; this folder contains the 1.7.10-specific port and compatibility layer.
+It was backported from the newer ForgeWurst codebase rather than written from scratch. The original project and upstream history can be found in the [Wurst/ForgeWurst](https://github.com/Wurst-Imperium/ForgeWurst) repositories; this folder contains the 1.7.10-specific port and compatibility layer.
 
 The goal of this branch is practical usability on 1.7.10:
 
@@ -13,7 +13,7 @@ The goal of this branch is practical usability on 1.7.10:
 - a large set of hacks
 - a 1.7.10-compatible coremod/ASM layer where needed
 
-This is a real backport, not a perfect clone. Some features are adapted for old [Forge/Minecraft](https://github.com/Wurst-Imperium/ForgeWurst) internals, and some behaviors differ from newer versions when 1.7.10 does not expose the same hooks.
+This is a real backport, not a perfect clone. Some features are adapted for old Forge/Minecraft internals, and some behaviors differ from newer versions when 1.7.10 does not expose the same hooks.
 
 ## Build
 
