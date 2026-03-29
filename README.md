@@ -13,7 +13,7 @@ The goal of this branch is practical usability on 1.7.10:
 - a large set of hacks
 - a 1.7.10-compatible coremod/ASM layer where needed
 
-This is a real backport, not a perfect clone. Some features are adapted for old Forge/Minecraft internals, and some behaviors differ from newer versions when 1.7.10 does not expose the same hooks.
+This is a real backport, not a perfect clone. Some features are adapted for old [Forge/Minecraft](https://github.com/Wurst-Imperium/ForgeWurst) internals, and some behaviors differ from newer versions when 1.7.10 does not expose the same hooks.
 
 ## Build
 
