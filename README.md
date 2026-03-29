@@ -2,7 +2,7 @@
 
 This module is a compatibility adaptation of ForgeWurst for Minecraft Forge 1.7.10.
 
-It was backported from the newer ForgeWurst codebase rather than written from scratch. The original project and upstream history can be found in the [Wurst/ForgeWurst](https://github.com/Wurst-Imperium/ForgeWurst) repositories; this folder contains the 1.7.10-specific port and compatibility layer.
+It was backported from the newer ForgeWurst codebase rather than written from scratch. The original project and upstream history can be found in the [Wurst-Imperium/ForgeWurst](https://github.com/Wurst-Imperium/ForgeWurst) repositories; this folder contains the 1.7.10-specific port and compatibility layer.
 
 The goal of this branch is practical usability on 1.7.10:
 
